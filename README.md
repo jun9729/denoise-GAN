@@ -1,5 +1,5 @@
 # GEN loss 가 안줄어드는 denoise-GAN ㅠㅠ 
-### 결과 사진들
+### 결과 사진들 (왼쪽 model output, 오른쪽 노이즈 있는 )
 ![Alt text](./img/1.JPG)
 ![Alt text](./img/2.JPG)
 ![Alt text](./img/3.JPG)
